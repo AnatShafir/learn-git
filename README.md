@@ -3,10 +3,8 @@
 ## Write code
 
 1. Create a branch with your name
-1. Create a file called `names.txt`
-1. Commit it with a nice commit message
-1. Add your first name to the file
-1. Commit the change
+1. Add your first name to the file `names.txt`
+1. Commit the change with a nice commit message
 1. Add your last name to the file
 1. Add the change to the previous commit
 1. Create a new file called `<your-name>.txt`
